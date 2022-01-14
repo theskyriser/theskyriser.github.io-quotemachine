@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bb521dc.css",
-    "main.js": "/static/js/main.69349565.js",
-    "static/js/787.6cebebe8.chunk.js": "/static/js/787.6cebebe8.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9bb521dc.css.map": "/static/css/main.9bb521dc.css.map",
-    "main.69349565.js.map": "/static/js/main.69349565.js.map",
-    "787.6cebebe8.chunk.js.map": "/static/js/787.6cebebe8.chunk.js.map"
+    "main.css": "/theskyriser.github.io-quotemachine/static/css/main.9bb521dc.css",
+    "main.js": "/theskyriser.github.io-quotemachine/static/js/main.7221c03c.js",
+    "static/js/787.6cebebe8.chunk.js": "/theskyriser.github.io-quotemachine/static/js/787.6cebebe8.chunk.js",
+    "static/media/logo.svg": "/theskyriser.github.io-quotemachine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/theskyriser.github.io-quotemachine/index.html",
+    "main.9bb521dc.css.map": "/theskyriser.github.io-quotemachine/static/css/main.9bb521dc.css.map",
+    "main.7221c03c.js.map": "/theskyriser.github.io-quotemachine/static/js/main.7221c03c.js.map",
+    "787.6cebebe8.chunk.js.map": "/theskyriser.github.io-quotemachine/static/js/787.6cebebe8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bb521dc.css",
-    "static/js/main.69349565.js"
+    "static/js/main.7221c03c.js"
   ]
 }
